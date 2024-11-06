@@ -18,7 +18,7 @@ Ini adalah proyek akhir dari Dicoding dalam kursus "Belajar Analisis Data Dengan
 |   ├── Screenshots_1.png
 |   └── Screenshots_2.png
 ├── README.md
-├── Apss.ipynb
+├── Notebook.ipynb
 └── requirements.txt
 ```
 
